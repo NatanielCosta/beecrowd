@@ -1,1 +1,4 @@
-print('Hello world!\n')
+A = int(input())
+B = int(input())
+X = A + B
+print('X = %d' % X)
